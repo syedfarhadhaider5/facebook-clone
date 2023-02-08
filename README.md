@@ -11,7 +11,7 @@ I made Facebook clone with React js, Firebase,  HTML, CSS and Redux, In which cr
 
 ## npm install
  ### `npm install` run
-##npm start
+## npm start
 Runs the app in the development mode using command in terminal.
 ### `npm start` run
 Open http://localhost:3000 to view it in your browser.
