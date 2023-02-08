@@ -1,0 +1,55 @@
+.messagesender{
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    border-radius: 10px;;
+    box-shadow: 0px 5px 7px -7px rgba(0, 0, 0, .75);
+    margin: 20px 5px;
+    width: 100%;
+}
+.MessageSender__top{
+    padding: 20px;
+    border-bottom: 1px solid #cccccc;
+    padding-bottom: 15px;
+}
+.MessageSender__top > form {
+    display: flex;
+   
+    flex: 1;
+}
+.MessageSender__top > form > input {
+    border: none;
+    background-color: #eff2f5;
+    border-radius: 999px;
+    outline-width: 0;
+    margin: 0px 10px;
+    padding: 5px 20px;
+}
+.MessageSender__top > form > button {
+    display: none;
+}
+.MessageSender__bottom{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 5px;
+}
+.MessageSender__option{
+     display: flex; 
+     margin: 5px;  
+     padding: 5px 20px;
+     cursor: pointer;
+
+}
+.MessageSender__option > h3{
+    margin-left: 5px;
+    color: gray;
+    font-size: medium;
+}
+.MessageSender__input {
+    flex: 1;
+}
+.MessageSender__option:hover {
+    padding: 5px 20px;
+    background-color: #eff2f5;;
+    border-radius: 5px;
+}

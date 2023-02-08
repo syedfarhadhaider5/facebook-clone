@@ -1,0 +1,19 @@
+# Project Information
+## _facebook clone, Ever_
+
+I made Facebook clone with React js, Firebase,  HTML, CSS and Redux, In which create the post same as like facebook
+
+# Demo
+
+![](https://lh3.googleusercontent.com/ChGICVqMCKKgtZ-u_0H06PeY9z8YQ-fNMjwCSv0kiLtA4v9mFGWtND9HCHzBrtWaTJzpPON_HDW6mNxZDJdbgHNe9JlK60iwUkpXV7aIrHRPQZflWMTbyZMP85JNQvVX_TIGlfJc98NMdjZMXqbwUtQRPvLNIcJn4Ty58PsHGj4ADrV92ZJybKp9WTf-ozqBchU0p33ZRua2fLS0n2dyIMRtspxDgSsd2QGdKM-utWQLzhbWAyOY55HICLrpIa2kaG_YrkpCmdJLryHFJPf6P2oAmUlA8HRvpbN5uyhJNy-MntRwyNXcZLBv5C4t8fIvI1xTxWX0J4HpnUOnFdFYBfE8FTBgo6wgbzffwRkB0062_gs3LF85pnAdS_BVJmKblFMFkxdHk4XwvpPenN_44QWl-kivWLCXVLoWmgp0dZkLuJeYtUrfUMXFwS5avXFnB73gDxRvrA8JEGYEKNVeAEe2wh3PZlotmfF42YlkczJlVdGGbx5GeaB-pRnn1ErOyKEUywfUNurTbwOa67Qx9yKD-sKVWXExpyFjx7VW7PjUSSf-26-CGvi-gfuyKZq8LNDVReBVH831XDDHTIlX8GxZjCpjtt8L9W93AqWupWrLeRywXlRV6gQhySMGVW-jWYYNV6A4DawBz6i8uOpw5jM9qUi9kSHrT8xGb-sGmBRWKLnDnX5XPlhd0auW6JDmj_kVFT9GkgZEpY-92Q62IP27yp2PDGdTGH73gBqx5tOoySU3aCSecKX-iUlgYrCYMwJuwQRAAt2YOdwQpIdkCLQeIRL3gE1PQgF7SxF4rqWFSnZVWkjnfO7eAkbXD79vCRjwBcFfbD0c3PmqMHZcHVwRvUNKJ6xA2ynNUUYyD7qwL6cqSfYuGZmqgcVQqRiPpTmlnUzEzpMTHJQ2y_JTl8QwSfJ_YzGa5TP8p7dtxmIN_jY4vZNwx_sO6faTwWyneXdBHZyieXl3Du5Cvnsn=w1365-h618-no)
+
+**Table of Contents**
+
+## npm install
+ ### `npm install` run
+##npm start
+Runs the app in the development mode using command in terminal.
+### `npm start` run
+Open http://localhost:3000 to view it in your browser.
+## License
+MIT

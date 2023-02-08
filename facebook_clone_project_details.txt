@@ -1,0 +1,12 @@
+Facebook Clone
+
+Technology stack used
+
+normal css
+react
+Context Api
+firebase
+firebase deployement
+
+URL
+https://my-facebook-app-db8ca.web.app/
